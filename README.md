@@ -11,7 +11,7 @@ The project approach is simple, with a lot of thought put into its execution.
 3. Snowflake Demo Account Credentials.
 4. Imagination and Creativity.
 
-##Instructions
+## Instructions
 
 1. Create a folder, you can name it whatever you like. 
 2. Add the **cursor_ai_snowflake_demo_instructions.md** file to the folder. 
@@ -20,7 +20,7 @@ The project approach is simple, with a lot of thought put into its execution.
 5. Define your prompt either general, semi-specific, or specific for better results. It goes without saying that the more specific you are, the more facts, details you add to your prompt, the outcome will undoubtedly be more targeted to what you are looking for. 
 6. Once the demo is created, you will need to update the Snowflake config file with your Snowflake credentials like Account name, Username and Password. Please have your phone handy because Duo will be prompting you and is time sensitive. 
 
-##Things to lookout for
+## Things to lookout for
 
 1. If you do not accept the Duo connection to Snowflake, it will try to hard code the data for your results in the Streamlit Application created for your dashboard. 
 2. When building the synthetic data, you may guide the agent to curate better context, but it needs to be noted. Sometimes it may create data funny like instead of names when building a healthcare demo, it will say something like Patient1, Patient2, Patient3, etc. You can ask to make names up and to modify such data. 
