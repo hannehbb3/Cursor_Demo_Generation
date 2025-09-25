@@ -5,7 +5,7 @@ PLEASE READ THE INSTRUCTIONS CAREFULLY
 
 ### 🏁 Step 0: Industry Selection & Demo Configuration
 
-Cursor AI should begin by prompting the Solutions Engineer to select a target industry, company name, and use case, if they have it--this is optional. If they also have, ask for customer personas, and desired demo features. This selection will guide the customization of:
+Cursor AI should begin by prompting the Solutions Engineer to select a target industry, company name, and use case, if they have it--the use case is optional. If they also have them, ask for customer personas, and desired demo features. This selection will guide the customization of:
 - Synthetic data generation
 - Dashboard design
 - WOW factor features
@@ -47,7 +47,7 @@ Please select your priorities: ___________
 
 Build a **modular, reusable demo** using Cursor AI that:
 - Integrates with Snowflake
-- Adapts to different industries
+- Customize it to the industry the solution engineer requested
 - Showcases Snowflake Prime Features (easy, secure, governed--e.g., row base access control and column masking)
 - Shows Snowflake Intelligence features (e.g., Cortex Analyst, Document AI)
 - Includes synthetic data, dashboards, and interactive WOW elements
