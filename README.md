@@ -28,6 +28,6 @@ The project approach is simple, with a lot of thought put into its execution.
 
 1. If you do not accept the Duo connection to Snowflake, it will try to hard code the data for your results in the Streamlit Application created for your dashboard. 
 2. When building the synthetic data, you may guide the agent to curate better context, but it needs to be noted. Sometimes it may create data funny like instead of names when building a healthcare demo, it will say something like Patient1, Patient2, Patient3, etc. You can ask to make names up and to modify such data.
-3. Cursor is extremely diligent when "YOU" ask something either to respond or to do, for this remember you are dealing with the best college grad, from the best university, with Cum Laude honors!
+3. Cursor is extremely diligent when "YOU" ask something either to respond or to do, for this remember you are dealing with the best college grad, from the best university, with Cum Laude honors for which you still need to manage.
 
-We encourage feedabck and suggestions. Thank you!
+### We encourage feedabck and suggestions. Thank you!
