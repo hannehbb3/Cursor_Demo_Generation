@@ -27,7 +27,7 @@ The project approach is simple, with a lot of thought put into its execution.
 ## Things to lookout for
 
 1. If you do not accept the Duo connection to Snowflake, it will try to hard code the data for your results in the Streamlit Application created for your dashboard.
-2. When uploading the streamlit app to Snowflake, some recoding will need to be applied for it to work. Streamlit app on your desktop versus the streamlit app in Snowflake are coded the same. 
+2. When uploading the streamlit app to Snowflake, some recoding will need to be applied for it to work. Streamlit app on your desktop versus the streamlit app in Snowflake are NOT the same. (e.g., packages, connection, versions, etc.) 
 3. When building the synthetic data, you may guide the agent to curate better context, but it needs to be noted. Sometimes it may create data funny like instead of names when building a healthcare demo, it will say something like Patient1, Patient2, Patient3, etc. You can ask to make names up and to modify such data.
 4. Cursor is extremely diligent when "YOU" ask something either to respond or to do. For this remember you are dealing with the best college grad, from the best university, with Cum Laude honors for which you still need to manage.
 
