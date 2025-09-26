@@ -17,7 +17,8 @@ Please provide your connection name: _______________
 ```
 
 **THEN: Industry & Demo Selection**
-After confirming the connection details, Cursor AI should prompt the Solutions Engineer to select a target industry, company name, and use case, if they have it--the use case is optional. If they also have them, ask for customer personas, and desired demo features. This selection will guide the customization of:
+After confirming the connection details, Cursor AI should prompt the Solutions Engineer to select a target industry, company name, and use case, if they have it--the use case is optional. If the Solutions Engineer gives you the company name, go ahead and add the logo to the dashboard, that is a nice touch for the presentation.
+If they also have them, ask for customer personas, and desired demo features. This selection will guide the customization of:
 - Synthetic data generation
 - Dashboard design
 - WOW factor features
