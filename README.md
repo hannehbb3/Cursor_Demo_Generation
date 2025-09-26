@@ -8,8 +8,9 @@ The project approach is simple, with a lot of thought put into its execution.
 
 1. Cursor AI to be installed in your laptop. The instructions where built for MacOS laptops, if you have a Windows OS, other instructions may apply.
 2. Setup the Snowflake Documentation under your Cursor AI Setting -> Indexing & Docs -> Docs. This will become your context when building your prompt.
-3. Snowflake Demo Account Credentials.
-4. Imagination and Creativity.
+3. Snowflake Account.
+4. SnowSQL installed with a dedicated connection for Cursor AI.
+5. Imagination and Creativity.
 
 ## Instructions
 
@@ -18,7 +19,9 @@ The project approach is simple, with a lot of thought put into its execution.
 3. Open Cursor AI and open the folder you just created with the file. When prompted to “**Do you trust the authors of the files in this folder?**”, click “**Yes, I trust the authors**”.
 4. Before prompting, in your AI Panel include your context before you start. (e.g., @add Context) It is recommended to include the Snowflake Documentation to guide the coding to best practices. 
 5. Define your prompt either general, semi-specific, or specific for better results. It goes without saying that the more specific you are, the more facts, details you add to your prompt, the outcome will undoubtedly be more targeted to what you are looking for. 
-6. Once the demo is created, you will need to update the Snowflake config file with your Snowflake credentials like Account name, Username and Password. Please have your phone handy because Duo will be prompting you and is time sensitive. 
+6. Once the demo is created, you need to supervise the agent to make sure it builds all the assets you need for a demo.
+7. In some instance, rework and recoding may be required but Cursor AI is so awesome, it will take up on that challenge.
+8. Once you have the outputs needed for your demo, you are welcome to elevate your demo to a different. Remember the sky is the limit here. 
 
 ## Things to lookout for
 
