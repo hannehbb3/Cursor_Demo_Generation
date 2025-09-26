@@ -21,13 +21,14 @@ The project approach is simple, with a lot of thought put into its execution.
 5. Before prompting, in your AI Panel include your context before you start. (e.g., @add Context) It is recommended to include the Snowflake Documentation to guide the coding to best practices. 
 6. Define your prompt either general, semi-specific, or specific for better results. It goes without saying that the more specific you are, the more facts, details you add to your prompt, the outcome will undoubtedly be more targeted to what you are looking for. 
 7. Once the demo is created, you need to supervise the agent to make sure it builds all the assets you need for a demo.
-8. In some instance, rework and recoding may be required but Cursor AI is so awesome, it will take up on that challenge.
+8. In some instances, rework and recoding may be required but Cursor AI is so awesome, it will take up on that challenge.
 9. Once you have the outputs needed for your demo, you are welcome to elevate your demo to a different feature or type. Remember the sky is the limit here. 
 
 ## Things to lookout for
 
-1. If you do not accept the Duo connection to Snowflake, it will try to hard code the data for your results in the Streamlit Application created for your dashboard. 
-2. When building the synthetic data, you may guide the agent to curate better context, but it needs to be noted. Sometimes it may create data funny like instead of names when building a healthcare demo, it will say something like Patient1, Patient2, Patient3, etc. You can ask to make names up and to modify such data.
-3. Cursor is extremely diligent when "YOU" ask something either to respond or to do, for this remember you are dealing with the best college grad, from the best university, with Cum Laude honors for which you still need to manage.
+1. If you do not accept the Duo connection to Snowflake, it will try to hard code the data for your results in the Streamlit Application created for your dashboard.
+2. When uploading the streamlit app to Snowflake, some recoding will need to applied for it to work. Streamlit app on your desktop versus the streamlit app in Snowflake are coded the same. 
+3. When building the synthetic data, you may guide the agent to curate better context, but it needs to be noted. Sometimes it may create data funny like instead of names when building a healthcare demo, it will say something like Patient1, Patient2, Patient3, etc. You can ask to make names up and to modify such data.
+4. Cursor is extremely diligent when "YOU" ask something either to respond or to do. For this remember you are dealing with the best college grad, from the best university, with Cum Laude honors for which you still need to manage.
 
-### We encourage feedabck and suggestions. Thank you!
+### We encourage feedback and suggestions. Thank you!
