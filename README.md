@@ -14,7 +14,7 @@ The project approach is simple, with a lot of thought put into its execution.
 
 ## Instructions
 
-1. The Snowflake Connection is handled by SnowSQL. Please refer to the SE Guide using this [link]("https://docs.google.com/document/d/1cj5PHPq2Jk_Xrsoimr24lRNnJSg9vYEu2H6OkEaeY7A/edit?tab=t.0#heading=h.os1muddxeqny").
+1. The Snowflake Connection is handled by SnowSQL. Please refer to the SE Guide using this [link](https://docs.google.com/document/d/1cj5PHPq2Jk_Xrsoimr24lRNnJSg9vYEu2H6OkEaeY7A/edit?tab=t.0#heading=h.os1muddxeqny "link").
 2. Create a folder, you can name it whatever you like. 
 3. Add the **cursor_ai_snowflake_demo_instructions.md** file to the folder. 
 4. Open Cursor AI and open the folder you just created with the file. When prompted to “**Do you trust the authors of the files in this folder?**”, click “**Yes, I trust the authors**”.
