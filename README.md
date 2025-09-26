@@ -22,7 +22,7 @@ The project approach is simple, with a lot of thought put into its execution.
 6. Define your prompt either general, semi-specific, or specific for better results. It goes without saying that the more specific you are, the more facts, details you add to your prompt, the outcome will undoubtedly be more targeted to what you are looking for. 
 7. Once the demo is created, you need to supervise the agent to make sure it builds all the assets you need for a demo.
 8. In some instance, rework and recoding may be required but Cursor AI is so awesome, it will take up on that challenge.
-9. Once you have the outputs needed for your demo, you are welcome to elevate your demo to a different. Remember the sky is the limit here. 
+9. Once you have the outputs needed for your demo, you are welcome to elevate your demo to a different feature or type. Remember the sky is the limit here. 
 
 ## Things to lookout for
 
