@@ -324,7 +324,7 @@ After completing the demo, Cursor AI should create a comprehensive **data archit
 
 **📦 Database & Schema Creation**
 ```sql
-CREATE DATABASE demo_industry_db;
+CREATE DATABASE demo_industry_db; -- No need to create a Database, the connection only allows the use of Cursor_DB Database. 
 CREATE SCHEMA based_on_industry;
 CREATE STAGE demo_stage;
 USE SCHEMA based_on_industry;
