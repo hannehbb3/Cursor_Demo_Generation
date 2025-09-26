@@ -14,14 +14,15 @@ The project approach is simple, with a lot of thought put into its execution.
 
 ## Instructions
 
-1. Create a folder, you can name it whatever you like. 
-2. Add the **cursor_ai_snowflake_demo_instructions.md** file to the folder. 
-3. Open Cursor AI and open the folder you just created with the file. When prompted to “**Do you trust the authors of the files in this folder?**”, click “**Yes, I trust the authors**”.
-4. Before prompting, in your AI Panel include your context before you start. (e.g., @add Context) It is recommended to include the Snowflake Documentation to guide the coding to best practices. 
-5. Define your prompt either general, semi-specific, or specific for better results. It goes without saying that the more specific you are, the more facts, details you add to your prompt, the outcome will undoubtedly be more targeted to what you are looking for. 
-6. Once the demo is created, you need to supervise the agent to make sure it builds all the assets you need for a demo.
-7. In some instance, rework and recoding may be required but Cursor AI is so awesome, it will take up on that challenge.
-8. Once you have the outputs needed for your demo, you are welcome to elevate your demo to a different. Remember the sky is the limit here. 
+1. The Snowflake Connection is handled by SnowSQL. Please refer to the SE Guide using this link["https://docs.google.com/document/d/1cj5PHPq2Jk_Xrsoimr24lRNnJSg9vYEu2H6OkEaeY7A/edit?tab=t.0#heading=h.os1muddxeqny"].
+2. Create a folder, you can name it whatever you like. 
+3. Add the **cursor_ai_snowflake_demo_instructions.md** file to the folder. 
+4. Open Cursor AI and open the folder you just created with the file. When prompted to “**Do you trust the authors of the files in this folder?**”, click “**Yes, I trust the authors**”.
+5. Before prompting, in your AI Panel include your context before you start. (e.g., @add Context) It is recommended to include the Snowflake Documentation to guide the coding to best practices. 
+6. Define your prompt either general, semi-specific, or specific for better results. It goes without saying that the more specific you are, the more facts, details you add to your prompt, the outcome will undoubtedly be more targeted to what you are looking for. 
+7. Once the demo is created, you need to supervise the agent to make sure it builds all the assets you need for a demo.
+8. In some instance, rework and recoding may be required but Cursor AI is so awesome, it will take up on that challenge.
+9. Once you have the outputs needed for your demo, you are welcome to elevate your demo to a different. Remember the sky is the limit here. 
 
 ## Things to lookout for
 
