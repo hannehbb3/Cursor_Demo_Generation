@@ -1,6 +1,6 @@
 # Cursor AI Demo Generation
 
-This project was created to help **Solutions Engineer** build industry specific demos to appeal to customers who may want to see their data used in the **Snowflake AI Platform**.
+This project was created to help **Solutions Engineers** build industry specific demos to appeal to customers who may want to see their data used in the **Snowflake AI Platform**.
 
 The project approach is simple, with a lot of thought put into its execution. 
 
